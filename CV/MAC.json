@@ -1,0 +1,38 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jorge",
+      "surnames": "Navarrete Argilés",
+      "description": "I am a Business Intelligence analyst and developer that currently works for the Daimler group.\nI have been working in business intelligence for 7 years in different companies and business.\n\nIn my free time I enjoy spending time with friends, my girlfriend and family. I also like sports like rugby and basketball but also sports in general.\n\nI am a person who likes the challenges and who is willing to take new projects."
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jorge-navarrete-argilés-71222653"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/nava17490"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/jnava90?s=09"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jorge-navarrete-argilés-71222653"
+        }
+      ]
+    }
+  }
+}
