@@ -12,10 +12,6 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jorge-navarrete-argilés-71222653"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/nava17490"
       },
@@ -25,12 +21,92 @@
       }
     ]
   },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tableau",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SSIS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/jorge-navarrete-argilés-71222653"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Databricks",
+          "type": "technology"
+        },
+        {
+          "name": "PySpark",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
         }
       ]
     }
