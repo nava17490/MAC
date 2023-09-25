@@ -76,7 +76,7 @@
         },
         "roles": [
           {
-            "name": "Becario",
+            "name": "Internship",
             "startDate": "2012-10-01",
             "finishDate": "2013-09-30",
             "challenges": [
@@ -93,7 +93,7 @@
         },
         "roles": [
           {
-            "name": "Becario",
+            "name": "Internship",
             "startDate": "2012-06-01",
             "finishDate": "2012-07-31",
             "challenges": [
@@ -106,7 +106,7 @@
       },
       {
         "organization": {
-          "name": "Hospital Obispo Polanco"
+          "name": "Obispo Polanco Hospital"
         },
         "roles": [
           {
