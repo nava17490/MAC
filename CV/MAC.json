@@ -30,7 +30,7 @@
             "startDate": "2017-07-01",
             "challenges": [
               {
-                "description": "Design data model for extending the Datawarehouse of an existing BI application to integrate different source systems\n\n Migrate a BI application from SQL 2014 to SQL 2017.\n\n Design a reporting model for PowerBI for a new BI application.\n\n Develop Tabular models to integrate the analysis data for the different organizations."
+                "description": "Design data model for extending the Datawarehouse of an existing BI application to integrate different source systems\n\n Migrate a BI application from SQL 2014 to SQL 2017.\n\n Design a reporting model for PowerBI for a new BI application.\n\n Develop Tabular models to integrate the analysis data for the different organizations.\n\n Define, implement and monitor development flow KPIs to measure software life cycle status. \n\n Define a procedure to start reducing Technical debt within projets."
               }
             ]
           }
