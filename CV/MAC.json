@@ -8,7 +8,7 @@
     "profile": {
       "name": "Jorge",
       "surnames": "Navarrete Argilés",
-      "title": "Analista BI en Daimler AG",
+      "title": "BI Analyst en Mercedes Benz",
       "description": "I am a Business Intelligence analyst and developer that currently works for the Mercedes Benz group.\nI have been working in business intelligence for 11 years in different companies and business areas like Telecommunications, Insurances and Automotive industries.\n\nIn my free time I enjoy spending time with friends, my girlfriend and family. I also like sports like rugby and basketball but also sports in general.\n\nI am a person who likes the challenges and who is willing to take new projects.",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -26,8 +26,13 @@
         },
         "roles": [
           {
-            "name": "Business Intelligence Consultant",
-            "startDate": "2017-07-01"
+            "name": "Business Intelligence Analyst",
+            "startDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "Design data model for extending the Datawarehouse of an existing BI application to integrate different source systems\n\n Migrate a BI application from SQL 2014 to SQL 2017.\n\n Design a reporting model for PowerBI for a new BI application.\n\n Develop Tabular models to integrate the analysis data for the different organizations."
+              }
+            ]
           }
         ]
       },
@@ -37,12 +42,12 @@
         },
         "roles": [
           {
-            "name": " Analista Programador BI",
+            "name": "Business Intelligence Analyst-Programmer",
             "startDate": "2014-12-01",
             "finishDate": "2017-07-31",
             "challenges": [
               {
-                "description": "Data modelling and ETL development / Desarrollo de ETL y modelado de datos\nMicrosoft SQL Server 2008\nMicrosoft SQL Server Integration Services (SSIS)"
+                "description": "Data modelling and ETL development \nMicrosoft SQL Server 2008\nMicrosoft SQL Server Integration Services (SSIS)"
               }
             ]
           }
@@ -59,7 +64,7 @@
             "finishDate": "2014-11-30",
             "challenges": [
               {
-                "description": "Experience in Business Intelligence and Datawarehousing projects.\nExperience with Microsft SSIS and Microsoft SSAS tools with a Sql Server 2012 environment.\n\nColaboración en proyectos de Business Intelligence y Datawarhousing usando la herramienta Microsoft SSIS y Microsoft SSAS así como la base de datos SQL SERVER 2012"
+                "description": "Experience in Business Intelligence and Datawarehousing projects.\nExperience with Microsoft SSIS and Microsoft SSAS tools with a Sql Server 2012 environment.\n\n"
               }
             ]
           }
@@ -76,7 +81,7 @@
             "finishDate": "2013-09-30",
             "challenges": [
               {
-                "description": "Experience in Business Intelligence and Datawarehousing projects.\nExperience with Microsft SSIS and Microsoft SSAS tools with a Sql Server 2012 environment.\n\nColaboración en proyectos de Business Intelligence y Datawarhousing usando la herramienta Microsoft SSIS y Microsoft SSAS así como la base de datos SQL SERVER 2012"
+                "description": "Experience in Business Intelligence and Datawarehousing projects.\nExperience with Microsft SSIS and Microsoft SSAS tools with a Sql Server 2012 environment."
               }
             ]
           }
@@ -84,7 +89,7 @@
       },
       {
         "organization": {
-          "name": "Universidad de Zaragoza (Departamento de Psicologia)"
+          "name": "University of Zaragoza (Psychology department)"
         },
         "roles": [
           {
@@ -93,7 +98,7 @@
             "finishDate": "2012-07-31",
             "challenges": [
               {
-                "description": "Development of a process to send signals between a Biopac system and a E-prime one to allow to start data recording in a prefixed time of the experiment\n\nImplementación de una conexión para enviar señales entre un sistema Biopac y otro sistema E-prime para permitir que iniciar la captacion de datos desde Biopac en un determinado instante del experimento generado en E-prime"
+                "description": "Development of a process to send signals between a Biopac system and a E-prime one to allow to start data recording in a prefixed time of the experiment\n\n"
               }
             ]
           }
@@ -110,7 +115,7 @@
             "finishDate": "2011-09-01",
             "challenges": [
               {
-                "description": "Development of some process to comunicate a SAP environment with some local applications\n\nImplementación de procesos para interconectar otras aplicaciones en un ordenador local con un entorno SAP"
+                "description": "Development of some process to comunicate a SAP environment with some local applications\n\n"
               }
             ],
             "competences": [
