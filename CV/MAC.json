@@ -183,6 +183,10 @@
     "contact": {
       "publicProfiles": [
         {
+          "URL": "https://www.linkedin.com/in/jorge-navarrete-argil%C3%A9s-71222653/",
+          "type": "linkedin"
+        },
+        {
           "URL": "https://github.com/nava17490",
           "type": "github"
         },
