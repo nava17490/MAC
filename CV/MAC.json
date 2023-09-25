@@ -22,22 +22,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Hospital Obispo Polanco"
-        },
-        "roles": [
-          {
-            "name": "Prácticas en empresa",
-            "startDate": "2023-09-25",
-            "challenges": [
-              {
-                "description": "Development of some process to comunicate a SAP environment with some local applications\n\nImplementación de procesos para interconectar otras aplicaciones en un ordenador local con un entorno SAP"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Mercedes-Benz Group Services Madrid"
         },
         "roles": [
@@ -110,6 +94,29 @@
             "challenges": [
               {
                 "description": "Development of a process to send signals between a Biopac system and a E-prime one to allow to start data recording in a prefixed time of the experiment\n\nImplementación de una conexión para enviar señales entre un sistema Biopac y otro sistema E-prime para permitir que iniciar la captacion de datos desde Biopac en un determinado instante del experimento generado en E-prime"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hospital Obispo Polanco"
+        },
+        "roles": [
+          {
+            "name": "Internship",
+            "startDate": "2011-07-01",
+            "finishDate": "2011-09-01",
+            "challenges": [
+              {
+                "description": "Development of some process to comunicate a SAP environment with some local applications\n\nImplementación de procesos para interconectar otras aplicaciones en un ordenador local con un entorno SAP"
+              }
+            ],
+            "competences": [
+              {
+                "name": "PowerShell",
+                "type": "technology"
               }
             ]
           }
