@@ -1,45 +1,158 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Jorge",
       "surnames": "Navarrete Argilés",
-      "title": "",
-      "description": "",
+      "title": "Analista BI en Daimler AG",
+      "description": "I am a Business Intelligence analyst and developer that currently works for the Daimler group.\nI have been working in business intelligence for 7 years in different companies and business.\n\nIn my free time I enjoy spending time with friends, my girlfriend and family. I also like sports like rugby and basketball but also sports in general.\n\nI am a person who likes the challenges and who is willing to take new projects.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
-    },
-    "relevantLinks": [
+    }
+  },
+  "experience": {
+    "jobs": [
       {
-        "type": "github",
-        "URL": "https://github.com/nava17490"
+        "organization": {
+          "name": "Hospital Obispo Polanco"
+        },
+        "roles": [
+          {
+            "name": "Prácticas en empresa",
+            "startDate": "2023-09-25",
+            "challenges": [
+              {
+                "description": "Development of some process to comunicate a SAP environment with some local applications\n\nImplementación de procesos para interconectar otras aplicaciones en un ordenador local con un entorno SAP"
+              }
+            ]
+          }
+        ]
       },
       {
-        "type": "twitter",
-        "URL": "https://twitter.com/jnava90?s=09"
+        "organization": {
+          "name": "Mercedes-Benz Group Services Madrid"
+        },
+        "roles": [
+          {
+            "name": "Business Intelligence Consultant",
+            "startDate": "2017-07-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Keyrus"
+        },
+        "roles": [
+          {
+            "name": " Analista Programador BI",
+            "startDate": "2014-12-01",
+            "finishDate": "2017-07-31",
+            "challenges": [
+              {
+                "description": "Data modelling and ETL development / Desarrollo de ETL y modelado de datos\nMicrosoft SQL Server 2008\nMicrosoft SQL Server Integration Services (SSIS)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Deloitte DxD"
+        },
+        "roles": [
+          {
+            "name": "Programmer",
+            "startDate": "2013-10-01",
+            "finishDate": "2014-11-30",
+            "challenges": [
+              {
+                "description": "Experience in Business Intelligence and Datawarehousing projects.\nExperience with Microsft SSIS and Microsoft SSAS tools with a Sql Server 2012 environment.\n\nColaboración en proyectos de Business Intelligence y Datawarhousing usando la herramienta Microsoft SSIS y Microsoft SSAS así como la base de datos SQL SERVER 2012"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Deloitte DxD"
+        },
+        "roles": [
+          {
+            "name": "Becario",
+            "startDate": "2012-10-01",
+            "finishDate": "2013-09-30",
+            "challenges": [
+              {
+                "description": "Experience in Business Intelligence and Datawarehousing projects.\nExperience with Microsft SSIS and Microsoft SSAS tools with a Sql Server 2012 environment.\n\nColaboración en proyectos de Business Intelligence y Datawarhousing usando la herramienta Microsoft SSIS y Microsoft SSAS así como la base de datos SQL SERVER 2012"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad de Zaragoza (Departamento de Psicologia)"
+        },
+        "roles": [
+          {
+            "name": "Becario",
+            "startDate": "2012-06-01",
+            "finishDate": "2012-07-31",
+            "challenges": [
+              {
+                "description": "Development of a process to send signals between a Biopac system and a E-prime one to allow to start data recording in a prefixed time of the experiment\n\nImplementación de una conexión para enviar señales entre un sistema Biopac y otro sistema E-prime para permitir que iniciar la captacion de datos desde Biopac en un determinado instante del experimento generado en E-prime"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "SQLServer",
@@ -54,31 +167,7 @@
       },
       {
         "skill": {
-          "name": "Microsoft Power BI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Tableau",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "BI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Confluence",
           "type": "technology"
         }
       },
@@ -94,8 +183,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jorge-navarrete-argilés-71222653"
+          "URL": "https://github.com/nava17490",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/jnava90?s=09",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "jorge.navarrete.ar@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "685219802",
+          "countryCode": "+34"
         }
       ]
     },
@@ -124,5 +226,8 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I like to be involved in new technologies even if they completely unknown to me. My dream job will be something about that when I can investigate and bring use cases for tools and technologies to real projects\n\n"
   }
 }
